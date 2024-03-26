@@ -1,0 +1,85 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\khadk\\OneDrive\\Desktop\\Computing3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{ADCF5AB2-986D-4952-8267-4555EE2915ED}|Computing3\\Computing3.csproj|c:\\users\\khadk\\onedrive\\desktop\\computing3\\computing3\\models\\student\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADCF5AB2-986D-4952-8267-4555EE2915ED}|Computing3\\Computing3.csproj|solutionrelative:computing3\\models\\student\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADCF5AB2-986D-4952-8267-4555EE2915ED}|Computing3\\Computing3.csproj|c:\\users\\khadk\\onedrive\\desktop\\computing3\\computing3\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{ADCF5AB2-986D-4952-8267-4555EE2915ED}|Computing3\\Computing3.csproj|solutionrelative:computing3\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADCF5AB2-986D-4952-8267-4555EE2915ED}|Computing3\\Computing3.csproj|c:\\users\\khadk\\onedrive\\desktop\\computing3\\computing3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADCF5AB2-986D-4952-8267-4555EE2915ED}|Computing3\\Computing3.csproj|solutionrelative:computing3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADCF5AB2-986D-4952-8267-4555EE2915ED}|Computing3\\Computing3.csproj|c:\\users\\khadk\\onedrive\\desktop\\computing3\\computing3\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADCF5AB2-986D-4952-8267-4555EE2915ED}|Computing3\\Computing3.csproj|solutionrelative:computing3\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\khadk\\OneDrive\\Desktop\\Computing3\\Computing3\\Program.cs",
+              "RelativeDocumentMoniker": "Computing3\\Program.cs",
+              "ToolTip": "C:\\Users\\khadk\\OneDrive\\Desktop\\Computing3\\Computing3\\Program.cs",
+              "RelativeToolTip": "Computing3\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-03T02:31:08.705Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\khadk\\OneDrive\\Desktop\\Computing3\\Computing3\\appsettings.json",
+              "RelativeDocumentMoniker": "Computing3\\appsettings.json",
+              "ToolTip": "C:\\Users\\khadk\\OneDrive\\Desktop\\Computing3\\Computing3\\appsettings.json",
+              "RelativeToolTip": "Computing3\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-03-03T02:30:50.586Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\khadk\\OneDrive\\Desktop\\Computing3\\Computing3\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Computing3\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\khadk\\OneDrive\\Desktop\\Computing3\\Computing3\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "Computing3\\Data\\AppDbContext.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAxwAoAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-03T02:24:20.012Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\khadk\\OneDrive\\Desktop\\Computing3\\Computing3\\Models\\Student\\Student.cs",
+              "RelativeDocumentMoniker": "Computing3\\Models\\Student\\Student.cs",
+              "ToolTip": "C:\\Users\\khadk\\OneDrive\\Desktop\\Computing3\\Computing3\\Models\\Student\\Student.cs",
+              "RelativeToolTip": "Computing3\\Models\\Student\\Student.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-03T02:06:16.908Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

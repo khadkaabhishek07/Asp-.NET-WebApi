@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Computing3.props" />
+</Project>
