@@ -1,0 +1,6 @@
+@Computing3_HostAddress = http://localhost:5279
+
+GET {{Computing3_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
