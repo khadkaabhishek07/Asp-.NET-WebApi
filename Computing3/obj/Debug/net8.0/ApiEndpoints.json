@@ -1,15 +1,15 @@
 [
   {
-    "ContainingType": "Computing3.Controllers.StudentController",
-    "Method": "CreateStudent",
-    "RelativePath": "api/Student",
-    "HttpMethod": "POST",
+    "ContainingType": "Computing3.Controllers.SquareController",
+    "Method": "GetSquare",
+    "RelativePath": "api/Square/{number}",
+    "HttpMethod": "GET",
     "IsController": true,
     "Order": 0,
     "Parameters": [
       {
-        "Name": "request",
-        "Type": "Computing3.Models.DTO.StudentDto",
+        "Name": "number",
+        "Type": "System.Int32",
         "IsRequired": true
       }
     ],
@@ -23,6 +23,22 @@
     "IsController": true,
     "Order": 0,
     "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Computing3.Controllers.StudentController",
+    "Method": "CreateStudent",
+    "RelativePath": "api/Student/Register",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "Computing3.Models.DTO.StudentDto",
+        "IsRequired": true
+      }
+    ],
     "ReturnTypes": []
   },
   {

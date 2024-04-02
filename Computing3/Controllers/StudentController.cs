@@ -18,7 +18,7 @@ namespace Computing3.Controllers
             this.dbContext = dbContext;
         }
 
-        [HttpPost]
+        [HttpPost("Register")]
         public async Task<IActionResult> CreateStudent(StudentDto request)
         {
             //mapping DTO to Student Class
@@ -37,9 +37,16 @@ namespace Computing3.Controllers
         [HttpGet]
         public async Task<IActionResult> GetAllStudent()
         {
-            var a = await dbContext.Students.ToListAsync();            
+            //Returns all students
+            var a = await dbContext.Students.ToListAsync();
 
+            //Returns student that has name Ram
+            var b = await dbContext.Students.Where(x => x.Name == "Ram").ToListAsync();
+
+            //Returns students apart from that specific LMUID and Orders by Name in Ascending 
+            var c = await dbContext.Students.Where(x => x.LMUID != 19030694).OrderBy(x=> x.Name).ToListAsync();
             return Ok(a);
         }
+        
     }
 }

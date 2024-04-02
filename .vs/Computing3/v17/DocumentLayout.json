@@ -3,24 +3,28 @@
   "WorkspaceRootPath": "C:\\Users\\khadk\\OneDrive\\Desktop\\Computing3\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{ADCF5AB2-986D-4952-8267-4555EE2915ED}|Computing3\\Computing3.csproj|c:\\users\\khadk\\onedrive\\desktop\\computing3\\computing3\\controllers\\squarecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADCF5AB2-986D-4952-8267-4555EE2915ED}|Computing3\\Computing3.csproj|solutionrelative:computing3\\controllers\\squarecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADCF5AB2-986D-4952-8267-4555EE2915ED}|Computing3\\Computing3.csproj|c:\\users\\khadk\\onedrive\\desktop\\computing3\\computing3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADCF5AB2-986D-4952-8267-4555EE2915ED}|Computing3\\Computing3.csproj|solutionrelative:computing3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADCF5AB2-986D-4952-8267-4555EE2915ED}|Computing3\\Computing3.csproj|c:\\users\\khadk\\onedrive\\desktop\\computing3\\computing3\\formula\\implementation\\calculatesquare.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADCF5AB2-986D-4952-8267-4555EE2915ED}|Computing3\\Computing3.csproj|solutionrelative:computing3\\formula\\implementation\\calculatesquare.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADCF5AB2-986D-4952-8267-4555EE2915ED}|Computing3\\Computing3.csproj|c:\\users\\khadk\\onedrive\\desktop\\computing3\\computing3\\formula\\interface\\icalculatesquare.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADCF5AB2-986D-4952-8267-4555EE2915ED}|Computing3\\Computing3.csproj|solutionrelative:computing3\\formula\\interface\\icalculatesquare.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{ADCF5AB2-986D-4952-8267-4555EE2915ED}|Computing3\\Computing3.csproj|c:\\users\\khadk\\onedrive\\desktop\\computing3\\computing3\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{ADCF5AB2-986D-4952-8267-4555EE2915ED}|Computing3\\Computing3.csproj|solutionrelative:computing3\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{ADCF5AB2-986D-4952-8267-4555EE2915ED}|Computing3\\Computing3.csproj|c:\\users\\khadk\\onedrive\\desktop\\computing3\\computing3\\models\\student\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{ADCF5AB2-986D-4952-8267-4555EE2915ED}|Computing3\\Computing3.csproj|solutionrelative:computing3\\models\\student\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{ADCF5AB2-986D-4952-8267-4555EE2915ED}|Computing3\\Computing3.csproj|c:\\users\\khadk\\onedrive\\desktop\\computing3\\computing3\\models\\dto\\studentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{ADCF5AB2-986D-4952-8267-4555EE2915ED}|Computing3\\Computing3.csproj|solutionrelative:computing3\\models\\dto\\studentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{ADCF5AB2-986D-4952-8267-4555EE2915ED}|Computing3\\Computing3.csproj|c:\\users\\khadk\\onedrive\\desktop\\computing3\\computing3\\models\\student\\bill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{ADCF5AB2-986D-4952-8267-4555EE2915ED}|Computing3\\Computing3.csproj|solutionrelative:computing3\\models\\student\\bill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{ADCF5AB2-986D-4952-8267-4555EE2915ED}|Computing3\\Computing3.csproj|c:\\users\\khadk\\onedrive\\desktop\\computing3\\computing3\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{ADCF5AB2-986D-4952-8267-4555EE2915ED}|Computing3\\Computing3.csproj|solutionrelative:computing3\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{ADCF5AB2-986D-4952-8267-4555EE2915ED}|Computing3\\Computing3.csproj|c:\\users\\khadk\\onedrive\\desktop\\computing3\\computing3\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADCF5AB2-986D-4952-8267-4555EE2915ED}|Computing3\\Computing3.csproj|solutionrelative:computing3\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,70 +34,83 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "AppDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\khadk\\OneDrive\\Desktop\\Computing3\\Computing3\\Data\\AppDbContext.cs",
-              "RelativeDocumentMoniker": "Computing3\\Data\\AppDbContext.cs",
-              "ToolTip": "C:\\Users\\khadk\\OneDrive\\Desktop\\Computing3\\Computing3\\Data\\AppDbContext.cs",
-              "RelativeToolTip": "Computing3\\Data\\AppDbContext.cs",
-              "ViewState": "AQIAAAgAAAAAAAAAAAA9wBEAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-26T04:36:44.904Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Bill.cs",
-              "DocumentMoniker": "C:\\Users\\khadk\\OneDrive\\Desktop\\Computing3\\Computing3\\Models\\Student\\Bill.cs",
-              "RelativeDocumentMoniker": "Computing3\\Models\\Student\\Bill.cs",
-              "ToolTip": "C:\\Users\\khadk\\OneDrive\\Desktop\\Computing3\\Computing3\\Models\\Student\\Bill.cs",
-              "RelativeToolTip": "Computing3\\Models\\Student\\Bill.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAoAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-26T04:15:22.061Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "StudentDto.cs",
-              "DocumentMoniker": "C:\\Users\\khadk\\OneDrive\\Desktop\\Computing3\\Computing3\\Models\\DTO\\StudentDto.cs",
-              "RelativeDocumentMoniker": "Computing3\\Models\\DTO\\StudentDto.cs",
-              "ToolTip": "C:\\Users\\khadk\\OneDrive\\Desktop\\Computing3\\Computing3\\Models\\DTO\\StudentDto.cs",
-              "RelativeToolTip": "Computing3\\Models\\DTO\\StudentDto.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAbAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-25T15:45:39.914Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
               "Title": "StudentController.cs",
               "DocumentMoniker": "C:\\Users\\khadk\\OneDrive\\Desktop\\Computing3\\Computing3\\Controllers\\StudentController.cs",
               "RelativeDocumentMoniker": "Computing3\\Controllers\\StudentController.cs",
               "ToolTip": "C:\\Users\\khadk\\OneDrive\\Desktop\\Computing3\\Computing3\\Controllers\\StudentController.cs",
               "RelativeToolTip": "Computing3\\Controllers\\StudentController.cs",
-              "ViewState": "AQIAABEAAAAAAAAAAAAgwBUAAABBAAAA",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAA0AAAAwAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-25T15:37:29.893Z",
+              "WhenOpened": "2024-04-02T04:04:21.226Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Student.cs",
-              "DocumentMoniker": "C:\\Users\\khadk\\OneDrive\\Desktop\\Computing3\\Computing3\\Models\\Student\\Student.cs",
-              "RelativeDocumentMoniker": "Computing3\\Models\\Student\\Student.cs",
-              "ToolTip": "C:\\Users\\khadk\\OneDrive\\Desktop\\Computing3\\Computing3\\Models\\Student\\Student.cs",
-              "RelativeToolTip": "Computing3\\Models\\Student\\Student.cs",
-              "ViewState": "AQIAAAUAAAAAAAAAAAAAAAsAAAA1AAAA",
+              "DocumentIndex": 3,
+              "Title": "ICalculateSquare.cs",
+              "DocumentMoniker": "C:\\Users\\khadk\\OneDrive\\Desktop\\Computing3\\Computing3\\Formula\\Interface\\ICalculateSquare.cs",
+              "RelativeDocumentMoniker": "Computing3\\Formula\\Interface\\ICalculateSquare.cs",
+              "ToolTip": "C:\\Users\\khadk\\OneDrive\\Desktop\\Computing3\\Computing3\\Formula\\Interface\\ICalculateSquare.cs",
+              "RelativeToolTip": "Computing3\\Formula\\Interface\\ICalculateSquare.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-25T15:35:27.074Z",
+              "WhenOpened": "2024-04-02T04:03:19.925Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SquareController.cs",
+              "DocumentMoniker": "C:\\Users\\khadk\\OneDrive\\Desktop\\Computing3\\Computing3\\Controllers\\SquareController.cs",
+              "RelativeDocumentMoniker": "Computing3\\Controllers\\SquareController.cs",
+              "ToolTip": "C:\\Users\\khadk\\OneDrive\\Desktop\\Computing3\\Computing3\\Controllers\\SquareController.cs",
+              "RelativeToolTip": "Computing3\\Controllers\\SquareController.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAqwBEAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-02T03:55:02.11Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Users\\khadk\\OneDrive\\Desktop\\Computing3\\Computing3\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "Computing3\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Users\\khadk\\OneDrive\\Desktop\\Computing3\\Computing3\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "Computing3\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-02T04:05:25.378Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\khadk\\OneDrive\\Desktop\\Computing3\\Computing3\\Program.cs",
+              "RelativeDocumentMoniker": "Computing3\\Program.cs",
+              "ToolTip": "C:\\Users\\khadk\\OneDrive\\Desktop\\Computing3\\Computing3\\Program.cs",
+              "RelativeToolTip": "Computing3\\Program.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-02T03:55:31.585Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CalculateSquare.cs",
+              "DocumentMoniker": "C:\\Users\\khadk\\OneDrive\\Desktop\\Computing3\\Computing3\\Formula\\Implementation\\CalculateSquare.cs",
+              "RelativeDocumentMoniker": "Computing3\\Formula\\Implementation\\CalculateSquare.cs",
+              "ToolTip": "C:\\Users\\khadk\\OneDrive\\Desktop\\Computing3\\Computing3\\Formula\\Implementation\\CalculateSquare.cs",
+              "RelativeToolTip": "Computing3\\Formula\\Implementation\\CalculateSquare.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-02T03:52:57.29Z",
               "EditorCaption": ""
             }
           ]

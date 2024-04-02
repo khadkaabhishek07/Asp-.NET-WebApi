@@ -6,6 +6,7 @@ namespace Computing3.Models.Student
     {
         [Key]
         public int LMUID { get; set; }
+        [Required]
         public string Name { get; set; }
         public string Hobby { get; set; }    
         public Bill Bill { get; set; }

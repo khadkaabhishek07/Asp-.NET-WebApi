@@ -134,3 +134,4 @@ C:\Users\khadk\OneDrive\Desktop\Computing3\Computing3\obj\Debug\net8.0\refint\Co
 C:\Users\khadk\OneDrive\Desktop\Computing3\Computing3\obj\Debug\net8.0\Computing3.pdb
 C:\Users\khadk\OneDrive\Desktop\Computing3\Computing3\obj\Debug\net8.0\Computing3.genruntimeconfig.cache
 C:\Users\khadk\OneDrive\Desktop\Computing3\Computing3\obj\Debug\net8.0\ref\Computing3.dll
+C:\Users\khadk\OneDrive\Desktop\Computing3\Computing3\obj\Debug\net8.0\Computing3.sourcelink.json
