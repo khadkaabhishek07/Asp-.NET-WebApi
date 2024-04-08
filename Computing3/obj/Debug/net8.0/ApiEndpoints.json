@@ -1,5 +1,26 @@
 [
   {
+    "ContainingType": "Computing3.Controllers.AuthenticationController",
+    "Method": "Register",
+    "RelativePath": "api/Authentication/Register",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "registerUser",
+        "Type": "Computing3.Models.Authentication.SignUp.RegisterUser",
+        "IsRequired": true
+      },
+      {
+        "Name": "role",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
     "ContainingType": "Computing3.Controllers.SquareController",
     "Method": "GetSquare",
     "RelativePath": "api/Square/{number}",

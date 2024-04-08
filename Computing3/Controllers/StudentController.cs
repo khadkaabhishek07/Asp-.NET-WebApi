@@ -45,7 +45,7 @@ namespace Computing3.Controllers
 
             //Returns students apart from that specific LMUID and Orders by Name in Ascending 
             var c = await dbContext.Students.Where(x => x.LMUID != 19030694).OrderBy(x=> x.Name).ToListAsync();
-            return Ok(a);
+            return Ok(c);
         }
         
     }

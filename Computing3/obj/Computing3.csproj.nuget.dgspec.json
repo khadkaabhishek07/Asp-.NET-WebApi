@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\khadk\\OneDrive\\Desktop\\Computing3\\Computing3\\Computing3.csproj": {}
+    "C:\\Samyog\\Computing3\\Computing3\\Computing3.csproj": {}
   },
   "projects": {
-    "C:\\Users\\khadk\\OneDrive\\Desktop\\Computing3\\Computing3\\Computing3.csproj": {
+    "C:\\Samyog\\Computing3\\Computing3\\Computing3.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\khadk\\OneDrive\\Desktop\\Computing3\\Computing3\\Computing3.csproj",
+        "projectUniqueName": "C:\\Samyog\\Computing3\\Computing3\\Computing3.csproj",
         "projectName": "Computing3",
-        "projectPath": "C:\\Users\\khadk\\OneDrive\\Desktop\\Computing3\\Computing3\\Computing3.csproj",
+        "projectPath": "C:\\Samyog\\Computing3\\Computing3\\Computing3.csproj",
         "packagesPath": "C:\\Users\\khadk\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\khadk\\OneDrive\\Desktop\\Computing3\\Computing3\\obj\\",
+        "outputPath": "C:\\Samyog\\Computing3\\Computing3\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\khadk\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -45,6 +45,14 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "dependencies": {
+            "Microsoft.AspNetCore.Authentication.JwtBearer": {
+              "target": "Package",
+              "version": "[8.0.3, )"
+            },
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.0.3, )"
+            },
             "Microsoft.EntityFrameworkCore.Design": {
               "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
               "suppressParent": "All",
